@@ -1,7 +1,3 @@
-#TIKTOK VIEWS GENERATOR
-
-
-
 
 ce dépôt contient un bot en Python qui utilise la bibliothèque Selenium pour interagir avec TikTok. Le bot ouvre le lien TikTok spécifié toutes les 2 minutes, reste sur la page pendant 45 secondes, puis se déconnecte. Veuillez utiliser ce code de manière responsable et respecter les politiques d'utilisation de TikTok.
 

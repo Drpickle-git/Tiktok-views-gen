@@ -37,7 +37,7 @@ Instructions d'installation (Kali Linux) :
 
 8. Exécutez le bot :
    ```
-   python3 bot_script.py
+   python3 Main.py
    ```
 
 9. Le bot commencera à visiter le lien TikTok spécifié toutes les 2 minutes, restera sur la page pendant 45 secondes, puis se déconnectera. Vous pouvez arrêter le bot à tout moment en appuyant sur `Ctrl + C`.
